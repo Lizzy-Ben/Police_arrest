@@ -1,4 +1,9 @@
 # Pizza_Sales_Analysis
+
+## Table of content
+- [Project_Overview](#project-overview)
+- [Objectives](#objectives)
+- 
 ### Project Overview
 - Pizza ID: Unique identifier for each pizza sold, used to track individual items.
 - Order ID: Unique identifier for each order, linking multiple pizzas to one transaction.
